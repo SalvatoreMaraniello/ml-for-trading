@@ -1,0 +1,3 @@
+[submodule "submodules/mastering-pandas-for-finance"]
+	path = submodules/mastering-pandas-for-finance
+	url = https://github.com/PacktPublishing/Mastering-Pandas-for-Finance
